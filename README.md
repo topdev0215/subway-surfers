@@ -1,5 +1,5 @@
 
-# Hi, I'm Hirakawa Tsuneteru! 👋
+# Hi, I'm topdev0215! 👋
 
 
 # Subway surfers
@@ -17,7 +17,7 @@ This is perfect JavaScript project
 
 ## Authors
 
-- [hirakawatsuneteru@gmail.com](https://www.github.com/hirakawa0215)
+- [topdev0215](https://www.github.com/topdev0215)
 
 
 ## 🛠 Skills
